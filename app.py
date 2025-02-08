@@ -52,3 +52,4 @@ if submit:
         text=input_pdf_text(uploaded_file)
         response=get_gemini_repsonse(input_prompt)
         st.subheader(response)
+#const=These is a random line
